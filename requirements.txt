@@ -1,5 +1,5 @@
 backports.ssl-match-hostname==3.5.0.1
-certifi==2016.9.26
+certifi==2022.12.7
 pyserial==3.2.1
 tornado==4.0.2
 signalr-client==0.0.7
